@@ -1,0 +1,6 @@
+to start server:
+npm install
+npm start
+
+*listening on localhost:8080
+enjoy!
